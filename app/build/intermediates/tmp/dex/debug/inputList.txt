@@ -1,0 +1,8 @@
+C:\Users\WireddIn-1\Documents\GitHub\DaggerExample\app\build\intermediates\classes\debug
+C:\Users\WireddIn-1\Documents\GitHub\DaggerExample\app\build\intermediates\pre-dexed\debug\javax.inject-1-3f8bb8017cfee7600217bd710183c6a2bb6d8d32.jar
+C:\Users\WireddIn-1\Documents\GitHub\DaggerExample\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.3.0-6a54abb9852da3cce47f0a3577c1e3a223236f12.jar
+C:\Users\WireddIn-1\Documents\GitHub\DaggerExample\app\build\intermediates\pre-dexed\debug\dagger-1.2.2-0a9e3327a1eac421f80cc98501e371358a08407f.jar
+C:\Users\WireddIn-1\Documents\GitHub\DaggerExample\app\build\intermediates\pre-dexed\debug\spring-android-core-2.0.0.M1-b5a58c490ca48a1152108c2bb7517bcaeef03bdf.jar
+C:\Users\WireddIn-1\Documents\GitHub\DaggerExample\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-2.0.0.M1-d1eee4833f7f8d5846db6595f33cc96e57f03789.jar
+C:\Users\WireddIn-1\Documents\GitHub\DaggerExample\app\build\intermediates\pre-dexed\debug\jackson-core-2.3.2-40f8868d311e781047cd50e2680370b77bc4f1ff.jar
+C:\Users\WireddIn-1\Documents\GitHub\DaggerExample\app\build\intermediates\pre-dexed\debug\jackson-databind-2.3.2-ba0bff3e9a7f69e92d10c21d951b0c757318c1f9.jar

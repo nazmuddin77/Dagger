@@ -1,0 +1,8 @@
+digraph G1 {
+  concentrate = true;
+  AnalyticsManager -> Application;
+  App -> AnalyticsManager;
+  MainActivity -> MainPresenter;
+  MainPresenter -> MainView;
+  MainPresenter -> FindItemsInteractor;
+}

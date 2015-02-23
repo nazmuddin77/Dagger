@@ -1,0 +1,8 @@
+digraph G1 {
+  concentrate = true;
+  AnalyticsManager -> Application;
+  App -> AnalyticsManager;
+  LoginActivity -> LoginPresenter;
+  LoginPresenter -> LoginView;
+  LoginPresenter -> LoginInteractor;
+}
